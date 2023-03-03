@@ -4,6 +4,8 @@
 [![Helix][helix]](https://helix-editor.com)
 [![Catppuccin][catppuccin]](https://github.com/catppuccin/catppuccin)
 
+Some of my projects are hosted on [Sourcehut](https://sr.ht/~stonks3141).
+
 ## Stats
 
 [![stats][stats]](https://github.com/anuraghazra/github-readme-stats)
