@@ -4,15 +4,17 @@
 [![Helix][helix]](https://helix-editor.com)
 [![Catppuccin][catppuccin]](https://github.com/catppuccin/catppuccin)
 
+## My Projects
+
+- [pet-monitor-app](https://github.com/Stonks3141/pet-monitor-app)
+- [catppuccin/egui](https://github.com/catppuccin/egui)
+- [blueprint](https://github.com/Stonks3141/blueprint)
+
 Some of my projects are hosted on [Sourcehut](https://sr.ht/~stonks3141).
 
 ## Stats
 
 [![stats][stats]](https://github.com/anuraghazra/github-readme-stats)
-
-## Top Languages
-
-[![langs][langs]](https://github.com/anuraghazra/github-readme-stats#top-languages-card)
 
 [nixos]: https://img.shields.io/badge/-NixOS-7dc4e4?style=for-the-badge&labelColor=181926&logoColor=7dc4e4&logo=nixos
 [dwl]: https://img.shields.io/badge/-dwl-a6da95?style=for-the-badge&labelColor=181926&logoColor=7dc4e4&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMTEiIGhlaWdodD0iNSIgZmlsbD0id2hpdGUiPjxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgZD0iTTIgMHYySDB2M2gzVjBIMlYzSDF2MWgxIi8+PHBhdGggZD0iTTQgMnYzaDVWMkg4djJIN1YySDZ2Mkg1VjIiLz48cGF0aCBkPSJNMTAgMHY1aDFWMCIvPjwvc3ZnPg==
