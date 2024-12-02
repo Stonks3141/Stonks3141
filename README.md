@@ -10,7 +10,7 @@
 - [catppuccin/egui](https://github.com/catppuccin/egui)
 - [blueprint](https://github.com/Stonks3141/blueprint)
 
-Some of my projects are hosted on [Sourcehut](https://sr.ht/~stonks3141).
+Some of my projects are hosted on [Sourcehut](https://sr.ht/~stonks3141) and [Fossil](https://fossil.samnystrom.dev).
 
 ## Stats
 
